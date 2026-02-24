@@ -1,7 +1,7 @@
 # 🌈 Multi-Scale Attention-Guided Non-Local Network (MSANLNet)
 
-![Journal](https://img.shields.io/badge/Journal-Sensors-blue)
-[![DOI](https://img.shields.io/badge/DOI-10.3390/s22197044-blue)](https://doi.org/10.3390/s22197044)
+[![Journal: Sensors](https://img.shields.io/badge/Journal-Sensors-blue)](https://www.mdpi.com/journal/sensors)
+[![DOI](https://img.shields.io/badge/DOI-10.3390/s22197044-blue)](https://www.mdpi.com/1424-8220/22/18/7044)
 
 PyTorch implementation of the proposed model from the published paper:
 
