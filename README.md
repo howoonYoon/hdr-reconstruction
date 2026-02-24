@@ -13,8 +13,10 @@ DOI: https://doi.org/10.3390/s22197044
 
 ## 📌 Overview
 
-This work proposes a multi-exposure HDR reconstruction network integrating:
+We propose MSANLNet, a multi-scale attention-guided non-local network for multi-exposure HDR reconstruction.  
+The model mitigates ghosting artifacts through implicit feature alignment and long-range non-local fusion.
 
+The architecture integrates:
 - Multi-Scale Spatial Attention (MSA)
 - Residual Dense Convolution Blocks
 - Non-local means-based feature fusion
