@@ -1,5 +1,8 @@
 # 🌈 Multi-Scale Attention-Guided Non-Local Network (MSANLNet)
 
+![Journal](https://img.shields.io/badge/Journal-Sensors-blue)
+[![DOI](https://img.shields.io/badge/DOI-10.3390/s22197044-blue)](https://doi.org/10.3390/s22197044)
+
 PyTorch implementation of the proposed model from the published paper:
 
 **Multi-Scale Attention-Guided Non-Local Network for HDR Image Reconstruction**  
