@@ -7,7 +7,6 @@ PyTorch implementation of the proposed model from the published paper:
 
 **Multi-Scale Attention-Guided Non-Local Network for HDR Image Reconstruction**  
 Published in *Sensors*, 2022.  
-DOI: https://doi.org/10.3390/s22197044
 
 ---
 
@@ -69,4 +68,4 @@ Dataset website:
 ---
 ## 📎 Note
 
-This repository provides the network architecture used in the published paper.  
+This repository contains the model architecture from the published paper.
